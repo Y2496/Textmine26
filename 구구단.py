@@ -2,7 +2,7 @@
 def gugudan (dan):
     print(f'[구구단{dan}단]')
     for i in range(1,10):
-        print :
+        print :1
 
 # 정수형 List의 총 합 구하기.
 numlist = [1, 43, 25, 33]
