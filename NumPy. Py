@@ -1,0 +1,15 @@
+# 넘파이 (Numpy)
+a1 =
+
+3. Indexing
+d3 [0] = 50
+print(d3)
+
+4. Slicing
+d2 = np.arange(1,11).reshape(2,-1)
+print(d2)
+d2
+
+넘파이 (Numpy) 배열의 정렬
+#[연습 문제] 성적순으로 출력 (내림차순)
+name = np.array
